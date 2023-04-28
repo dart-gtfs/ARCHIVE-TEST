@@ -1,5 +1,4 @@
 # ARCHIVE-TEST
-Contains zip files from Development and Test executions.
+Contains data files for Development internal testing only.
 
-This data is for specific audience only and not for us in any production systems.
 
